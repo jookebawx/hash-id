@@ -15,7 +15,7 @@ This project is an example of how to upload a PDF file, mint it as an NFT (Non-F
     - index.html: The main file to open in a web browser.
 
 3. MetaMask Configuration:
-    - Open MetaMask and connect to the desired Ethereum network (e.g., Ropsten Testnet).
+    - Open MetaMask and connect to the desired Ethereum network (in this case Sepolia Testnet).
 
 4. Running the Application:
    - Open index.html in a web browser.
